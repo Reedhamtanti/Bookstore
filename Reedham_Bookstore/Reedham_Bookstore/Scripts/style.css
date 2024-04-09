@@ -1,0 +1,56 @@
+﻿body {
+
+}
+.auto-style1 {
+    width: 273px;
+}
+
+.btn {
+    background: #7d552f !important;
+    border:none;
+}
+.cn {
+    color: #7d552f;
+}
+.products{
+    gap:0px !important;
+}
+.lblproduct{
+    width:35% !important;
+}
+.auto-style2 {
+    width: 273px;
+    height: 46px;
+}
+
+.auto-style3 {
+    height: 46px;
+}
+
+.hdrImg {
+    height: 337px;
+    width: 100%;
+}
+
+.col-sm-12 {
+    width: 60% !important;
+}
+
+.form-group {
+    display: flex;
+    gap: 25px;
+    margin-top:10px;
+}
+
+.sizing {
+    height: auto;
+    width: 100%;
+}
+
+.imgSize {
+    height: 200px;
+    width: 150px;
+}
+.flex {
+    display: flex;
+}
